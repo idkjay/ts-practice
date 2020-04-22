@@ -1,1 +1,1 @@
-console.log('Your code goes here... WTF fsdff');
+console.log('Your code goes here...');
